@@ -1,23 +1,7 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+## The ReplayMod allows you to record, replay and share your gaming experience.
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+### It's easy to use, but an incredibly powerful tool. Create perfect Minecraft videos within minutes.
+
+### Replay Files are in a lightweight format - an average recording over 1 hour is less than 10 Megabytes large. You can easily share your Replays with your friends simply by sending them the file.
+
+### Coming with a built-in video creator, the Replay Mod allows everyone to make perfect clips without any external software. The simple User Interface makes it very easy to design awesome Camera Paths.
